@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlogBuzzTime\n"
+"POT-Creation-Date: 2014-09-22 14:20+0100\n"
+"PO-Revision-Date: 2014-09-22 14:21+0100\n"
+"Last-Translator: Grégoire Penverne <contact@gregoire-penverne.fr>\n"
+"Language-Team: BlogBuzztime.com <gregoire@geekndev.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/"
+"BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk\\r/Users/"
+"gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-"
+"plugins/blogbuzztime-for-wp/trunk\\r/Users/gpenverne/NetBeansProjects/bbt/"
+"src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-SearchPath-0: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/"
+"BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk\n"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widget.php:10
+msgid "widget blogbuzztime description"
+msgstr "Affiche les articles en cours de lecture, sous forme de liens texte"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widget.php:12
+msgid "lectures en cours"
+msgstr "Lectures en cours"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widget.php:29
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widgetCounter.php:29
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widgetPicture.php:30
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/CreditRoom_widget.php:30
+msgid "Widget Title"
+msgstr "Titre du widget"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widgetCounter.php:10
+msgid "widget counter description"
+msgstr ""
+"Affiche le total des utilisateurs présents sur votre blog, en temps réel"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widgetCounter.php:12
+msgid "Current online users"
+msgstr "Nombre d'utilisateurs en ligne"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widgetPicture.php:10
+msgid "lectures en cours avec illustrations"
+msgstr ""
+"Affiche les lectures en cours, avec une image (basée sur le meta tag "
+"facebook og:picture)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/BlogBuzzTime_widgetPicture.php:13
+msgid "lectures en cours illustres"
+msgstr "Lectures en cours, illustrées"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/CreditRoom_widget.php:10
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/class/CreditRoom_widget.php:13
+msgid "échange de liens"
+msgstr "échange de liens"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:16
+msgid "reader"
+msgstr "lecteur"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:17
+msgid "readers"
+msgstr "lecteurs"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:18
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:357
+msgid "defaultLang"
+msgstr "fr"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:19
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:26
+msgid "online users"
+msgstr "utilisateurs en ligne"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:20
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:27
+msgid "online user"
+msgstr "utilisateur en ligne"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:96
+msgid "Configuration saved."
+msgstr "Configuration sauvegardée."
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:97
+msgid "You can now add widget to sidebar"
+msgstr ""
+"Vous pouvez à présent ajouter le widget à votre sidebar (via "
+"l'administration des widgets de votre wordpress)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:106
+msgid "Ignore an url"
+msgstr "Ignorer une url"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:110
+msgid "Example"
+msgstr "Exemple"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:126
+msgid "Hidden urls"
+msgstr "Urls ignorés"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:161
+msgid "Other parameters"
+msgstr "Autres paramètres"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:163
+msgid "Number of links to show"
+msgstr "Nombre de liens d'articles à afficher"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:163
+msgid "show all"
+msgstr "tout afficher"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:167
+msgid "Mininum number of readers to show a link"
+msgstr "Nombre minimal de lecteurs pour afficher un lien d'article"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:167
+msgid "no min"
+msgstr "pas de minimum"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:171
+msgid "Add suffix to url"
+msgstr "Ajotuer un suffixe à l'url"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:175
+msgid "Wording for \"Reader\" (singular)"
+msgstr "Expression pour \"lecteur\" (au singulier)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:179
+msgid "Wording for \"Readers\" (plural)"
+msgstr "Expression pour \"lecteurs\" (au pluriel)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:183
+msgid "What's your language?"
+msgstr "En quelle langue sont rédigés vos articles?"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:200
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:224
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:250
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:285
+msgid "Save"
+msgstr "Enregistrer"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:214
+msgid "Widget current online users"
+msgstr "Widget d'affichage du nombre d'utilisateurs en ligne"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:216
+msgid "Wording for online user"
+msgstr "Expression pour \"utilisateur en ligne\" (au singulier)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:220
+msgid "Wording for online users"
+msgstr "Expression pour \"utilisateurs en ligne\" (au pluriel)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:237
+msgid "Afficher les widgets en floating box"
+msgstr "Afficher les widgets en floating box (en haut à droite)"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:239
+msgid "Activer la floating box"
+msgstr "Activer la floating box"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:240
+msgid "Activer"
+msgstr "Activer"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:241
+msgid "Désactiver"
+msgstr "Désactiver"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:245
+msgid "Style de la floating box"
+msgstr "Style de la box"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:246
+msgid "Blanc"
+msgstr "Blanc"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:247
+msgid "Noir"
+msgstr "Noir"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:263
+msgid "Categorie des echanges liens partenaires"
+msgstr "Catégorie des échanges de liens partenaires"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:265
+msgid ""
+"Choisissez une thematique pour activer les echanges de liens avec des blogs "
+"de meme thematique"
+msgstr ""
+"Choisissez une thématique pour activer les échanges de liens avec des blogs "
+"de même thématique"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:275
+msgid "En savoir plus sur l'echange de liens BlogBuzzTime"
+msgstr "En savoir plus sur l'échange de liens BlogBuzzTime"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:277
+msgid "Vous avez"
+msgstr "Vous avez"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:277
+msgid "Credits"
+msgstr "crédits"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:279
+msgid "RSS feed for your partner's links"
+msgstr "Flux rss des liens vers les articles partenaires"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:293
+msgid "BlogBuzzTime Plateform health"
+msgstr "Etat de la plateforme blogbuzztime"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:327
+msgid "All is ok"
+msgstr "Tout est ok"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:331
+msgid "BlogBuzzTime is down"
+msgstr "BlogBuzzTime semble down"
+
+#: /Users/gpenverne/NetBeansProjects/bbt/src/GKDV/BlogBuzzTimeBundle/Resources/wp-plugins/blogbuzztime-for-wp/trunk/views/admin_home.php:357
+msgid "Plugin by"
+msgstr "Plugin proposé et développé par"
+
+#~ msgid "BlogBuzzTime"
+#~ msgstr "BlogBuzzTime"
